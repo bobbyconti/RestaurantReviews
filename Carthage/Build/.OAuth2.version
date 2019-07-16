@@ -1,0 +1,10 @@
+{
+  "commitish" : "4.2.0",
+  "iOS" : [
+    {
+      "name" : "OAuth2",
+      "hash" : "9f8162bc7055d40a6957b5e94657c0b3ac6a57bf19a8d083cc5eb416dcd5e322",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}
